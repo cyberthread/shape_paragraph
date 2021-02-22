@@ -1,0 +1,17 @@
+/* this is a simple CSS Reset that removes some of the default browser styles so that you, as the designer, are in control of space and typography */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+/* add your code down here */
+
+html {
+
+}
+
+main {
+  padding: 1rem; /* this line will keep the text from touching the edges of the browser */
+}
