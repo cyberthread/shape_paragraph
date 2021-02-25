@@ -2,6 +2,8 @@
 In this exercise we will practice the following:
 - Attach an external stylesheet
 - Control the shape of the paragraph based on font, font-size, leading (line-height), and the line length (max-width on the container).
+- Implement a media query
+- Use relative units (rem and em)
 
 ## Tasks
 - Link the stylesheet in the HTML file
